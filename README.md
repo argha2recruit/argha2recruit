@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Argha Das</h1>
+<h1 align="center">Hey 👋, I'm Argha Das</h1>
 <h3 align="center">Talent Scout | OSINT-SOCMINT R&D Enthusiastic | Diversity & Niece Hiring | People Analytics Practitioner</h3                                              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadas-recruitment&label=Profile%20views&color=0e75b6&style=flat" alt="arghadas-recruitment" /> </p>
 
@@ -28,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghadas-recruitment&show_icons=true&locale=en&layout=compact" alt="arghadas-recruitment" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arghadas-recruitment&show_icons=true&locale=en" alt="arghadas-recruitment" /></p>
-"
