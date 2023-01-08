@@ -10,11 +10,11 @@
 
 - 🤝 I’m looking for help with **Analytics**
 
-- 💬 Ask me about **Sourcing & Recruitment**
+- 💬 Ask me about **Head Hunting 🔎& Recruitment**
 
 - 📫 How to reach me **das.babin94@gmail.com**
 
-- ⚡ Fun fact **I might Look Serious, But I'm Very Friendly**
+- ⚡ Fun fact **I ❤️ Mandi (Arabic: مندي) ,Over Biryani  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
