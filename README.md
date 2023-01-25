@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Argha Das</h1>
-<h3 align="center">Talent Scout | OSINT-SOCMINT R&D Enthusiastic | Diversity & Niece Hiring | People Analytics Practitioner</h3                                              
+<h3 align="center"> Talent Scout | OSINT-SOCMINT R&D Enthusiastic | Diversity & Niece Hiring | People Analytics Enthusiastic </h3                                              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadas-recruitment&label=Profile%20views&color=0e75b6&style=flat" alt="arghadas-recruitment" /> </p>
 
 - 🔭 I’m currently working on **Leadership Recruitment**
