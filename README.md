@@ -12,13 +12,13 @@
 
 - 💬 Ask me about **Head Hunting 🔎& Recruitment**
 
-- 📫 How to reach me **das.babin94@gmail.com**
+- 📫 How to reach me **mailtobobin.work@gmail.com**
 
 - ⚡ Fun fact **I ❤️ Mandi (Arabic: مندي) ,Over Biryani  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/argha33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/argha33/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/argha34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/argha33/" height="30" width="40" /></a>
 <a href="https://instagram.com/outlaw_pescado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="outlaw_pescado" height="30" width="40" /></a>
 </p>
 
