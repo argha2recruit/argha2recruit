@@ -2,7 +2,7 @@
 <h3 align="center"> Talent Scout | OSINT-SOCMINT R&D Enthusiastic | Diversity & Niece Hiring | People Analytics Enthusiastic </h3                                              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadas-recruitment&label=Profile%20views&color=0e75b6&style=flat" alt="arghadas-recruitment" /> </p>
 
-- 🔭 I’m currently #OpenToWork and looking for **Jobs**
+- 🔭 I’m currently exploring exciting **Opportunities**
 
 - 🌱 I’m currently learning **People Analytics**
 
