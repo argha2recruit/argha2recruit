@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Argha </h1>
-<h3 align="center"> Staffing | OSINT Research |  People Analytics Enthusiastic </h3 
+<h3 align="center"> Recruiting and Coding </h3 
                                                                                  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadas-recruitment&label=Profile%20views&color=0e75b6&style=flat" alt="arghadas-recruitment" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Staffing & Agentic development**
 
-- 💬 Ask me about **Sourcing 🔎& Staffing**
+- 💬 Ask me about **Sourcing 🔎 & Staffing**
 
 - ⚡ Fun fact **I ❤️ Mandi (Arabic: مندي) ,Over Biryani  **
 
