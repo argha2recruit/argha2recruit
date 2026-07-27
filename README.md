@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Staffing & Agentic development**
 
-- 💬 Ask me about **Sourcing 🔎 & Staffing**
+- 💬 Ask me about **Sourcing & Staffing**
 
 - ⚡ Fun fact **I ❤️ Mandi (Arabic: مندي) ,Over Biryani  **
 
