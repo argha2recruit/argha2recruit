@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Sourcing & Staffing**
 
-- ⚡ Fun fact **I ❤️ Mandi (Arabic: مندي) ,Over Biryani  **
+- ⚡ Fun fact I ❤️ Mandi (Arabic: مندي) ,Over Biryani
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
