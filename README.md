@@ -3,9 +3,9 @@
                                                                                  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadas-recruitment&label=Profile%20views&color=0e75b6&style=flat" alt="arghadas-recruitment" /> </p>
 
-- 🌱 I’m currently learning **AI Agent Development**
+- 🌱 Currently learning and building **AI Agents**
 
-- 👯 I’m looking to collaborate on **Staffing & Agentic Development**
+- 👯 Looking to collaborate on **Solving Recruiting Problems with AI**
 
 - 💬 Ask me about **Sourcing & Staffing**
 
